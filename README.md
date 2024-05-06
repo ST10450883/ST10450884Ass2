@@ -1,5 +1,4 @@
 # ST10450884Ass2
- IMAD ICE 5
 ⦁	Purpose
 The purpose of my app is to create a virtual pet so that the user can experience how it is like owning and caring for a pet. The user will be able to feed, play with and nurture their virtual pet to keep them happy and healthy. The app's focus is to have learn how to take care of your pet while having fun. 
 ⦁	Design considerations 
