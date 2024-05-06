@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IMAD Ass2</string>
+    <!-- Feed Button Text -->
+    <string name="FEED_MESSAGE">I am hungry,can you please feed me</string>
+
+    <!-- Feed Message -->
+    <string name="feed_thank_you">Thank you, I have eaten enough!</string>
+
+    <!-- Play Button Text -->
+    <string name="play_with_me">I am bored can you please play with me</string>
+
+    <!-- Play Message -->
+    <string name="play_that_was_fun">Thank you,that was fun</string>
+
+    <!-- Clean Button Text -->
+    <string name="clean_nice_and_clean">All this playing made me dirty. Please wash me?</string>
+
+    <!-- Cleaned Message -->
+    <string name="cleaned_message">Nice and clean, I am going to take a nap now. See you later!</string>
+</resources>
